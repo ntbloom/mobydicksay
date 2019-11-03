@@ -1,9 +1,10 @@
+## Now accepting pull requests from the artistically-inclined!!!
+
+
 # Dicksay 
 Cowsay cowfiles with Moby Dick themed ASCII art
 
-### Now accepting pull requests from the artistically-inclined!!!
-
-### How too use this repo
+### How to use this repo
 
 Install executable `cowsay` binary.  Works great with `fortune` and other text-based messaging apps.
 
