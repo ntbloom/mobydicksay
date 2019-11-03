@@ -1,9 +1,11 @@
-# Whalesay
-Cowsay cowfiles with whale ASCII art
+# Dicksay 
+Cowsay cowfiles with Moby Dick themed ASCII art
+
+### Now accepting pull requests from the artistically-inclined
 
 ### To use
 
-Place or symlink included cowfiles in appropriate directory, typically /usr/share/cowsay or /usr/games/cowsay
+Symlink cowfiles to appropriate directory, typically /usr/share/cowsay or /usr/games/cowsay
 
 Run your favorite command and enjoy
 
