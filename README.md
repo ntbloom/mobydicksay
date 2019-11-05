@@ -4,7 +4,7 @@
 # Dicksay 
 Cowsay cowfiles with Moby Dick themed ASCII art
 
-<img src="/sample.png">
+<img src="/samples/disorderliness.png">
 
 ### How to use this repo
 
