@@ -4,6 +4,8 @@
 # Dicksay 
 Cowsay cowfiles with Moby Dick themed ASCII art
 
+<img src="/sample.png">
+
 ### How to use this repo
 
 Install executable `cowsay` binary.  Works great with `fortune` and other text-based messaging apps.
